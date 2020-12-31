@@ -9,7 +9,13 @@
 		"pawn-lang/YSI-Includes@5.x",
 		"IllidanS4/PawnPlus:v1.3.2",
 		"dakyskye/pawn-env",
-		"Mergevos/samp-logging"
+		"Mergevos/samp-logging",
+		"opysium/ugmp-server",
+		"Mergevos/bcrypt-samp:2.2.8",
+		"Mergevos/samp-async-bcrypt",
+		"AGraber/samp-async-dialogs",
+		"AGraber/pawn-plus-mysql",
+		"Y-Less/sscanf"
 	],
 	"local": true,
 	"runtime": {
@@ -62,7 +68,8 @@
 				"-r"
 			],
 			"includes": [
-				"modules/database"
+				"modules/database",
+				"modules/account"
 			],
 			"compiler": {}
 		}
