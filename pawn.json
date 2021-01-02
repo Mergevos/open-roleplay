@@ -1,8 +1,8 @@
 {
 	"user": "Mergevos",
 	"repo": "open-roleplay",
-	"entry": "gamemodes\\main.pwn",
-	"output": "gamemodes\\main.amx",
+	"entry": "gamemodes/main.pwn",
+	"output": "gamemodes/main.amx",
 	"dependencies": [
 		"sampctl/samp-stdlib",
 		"pBlueG/SA-MP-MySQL",
