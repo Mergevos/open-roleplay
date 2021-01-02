@@ -5,3 +5,7 @@ tasks:
   - before: brew install Southclaws/sampctl/sampctl
     init: sampctl p ensure
     command: sampctl p build
+
+vscode:
+  extensions:
+    - southclaws.vscode-pawn@1.0.0:WjPLTkFHNVCpdIGipyDnBg==
