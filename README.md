@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Mergevos/open-roleplay)
+
 # open-roleplay
 
 [![Mergevos](https://img.shields.io/badge/Mergevos-open--roleplay-2f2f2f.svg?style=for-the-badge)](https://github.com/Mergevos/open-roleplay)
